@@ -30,3 +30,9 @@ print("1 or 0=",bool(1 or 0))
 print("1 or 1=",bool(1 or 1))
 
 print("vamos a calcular el IMC")
+
+altura=float(input("introduce tu altura: "))
+peso=float(input("introduce tu peso: "))
+resultado=peso/(altura*altura)
+
+print("tu IMC es: ",resultado)
