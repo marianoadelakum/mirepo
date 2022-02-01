@@ -28,3 +28,12 @@ print("0 or 0=",bool(0 or 0))
 print("0 or 1=",bool(0 or 1))
 print("1 or 0=",bool(1 or 0))
 print("1 or 1=",bool(1 or 1))
+
+if resultado<19:
+   print("peso inferior a lo normal")
+elif resultado >=19 and resultado<=25:
+    print("normal")
+elif resultado >=25 and resultado<=30:
+    print("peso superior al normal")
+elif resultado>30:
+    print("obesidad")
