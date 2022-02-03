@@ -46,3 +46,10 @@ elif resultado>30:
     print("obesidad")
 
 print("vamos a probar el conflicto con mi carpeta de trabajo")
+
+print('"hola"')
+print("gllo")
+
+nombre = "Pepe"
+print("¡Hola,",nombre+ "!")
+
