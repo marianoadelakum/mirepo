@@ -47,3 +47,5 @@ elif resultado >=25 and resultado<=30:
 elif resultado>30:
     print("obesidad")
 >>>>>>> newram
+
+print("vamos a probar el conflicto con mi carpeta de trabajo")
