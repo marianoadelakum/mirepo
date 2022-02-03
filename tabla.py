@@ -47,3 +47,9 @@ elif resultado >=25 and resultado<=30:
 elif resultado>30:
     print("obesidad")
 >>>>>>> newram
+
+print('"hola"')
+print("gllo")
+
+nombre = "Pepe"
+print("¡Hola,",nombre+ "!")
